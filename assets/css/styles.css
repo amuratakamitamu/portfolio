@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #013d44;
+    background-color: #071526;
     color: #fff;
 }
 
@@ -48,7 +48,7 @@ body {
 
 .navbar a.active,
 .navbar a:hover {
-    color: #A67458;
+    color: #804a2b;
 }
 
 .home {
@@ -99,7 +99,7 @@ body {
     height: 48px;
     border-radius: 40px;
     font-size: 19px;
-    background: #A67458;
+    background: #804a2b;
     color: #fff;
     text-decoration: none;
     font-weight: 600;
@@ -109,7 +109,7 @@ body {
 }
 
 .btn:hover {
-    background: #835d47;
+    background: #4a2b19;
     transition: 0.2s;
 }
 
@@ -180,7 +180,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #A67458;
+    background: #804a2b;
     border-radius: 50%;
     z-index: -1;
     transition: .5s ease;
@@ -191,7 +191,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #013d44;
+    background: #071526;
     border-radius: 50%;
     transform: scale(.88);
     z-index: -1;
@@ -232,7 +232,7 @@ body {
     height: 346px;
     /* width*√3/2 */
     clip-path: polygon(25% 0, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-    background: #013d44;
+    background: #071526;
 }
 
 
