@@ -57,7 +57,6 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 70px 10% 0;
     width: 960px;
     margin: auto;
 }
