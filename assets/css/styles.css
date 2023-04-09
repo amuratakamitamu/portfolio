@@ -102,6 +102,7 @@ body {
     color: #fff;
     text-decoration: none;
     font-weight: 600;
+    opacity: 0;
     animation: slideTop 1s ease forwards;
     animation-delay: 1.8s;
 }
