@@ -8,7 +8,7 @@
 }
 
 body {
-    background-color: #071526;
+    background-color: #041c20;
     color: #fff;
 }
 
@@ -191,7 +191,7 @@ body {
     position: absolute;
     width: 100%;
     height: 100%;
-    background: #071526;
+    background: #041c20;
     border-radius: 50%;
     transform: scale(.88);
     z-index: -1;
@@ -232,7 +232,7 @@ body {
     height: 346px;
     /* width*√3/2 */
     clip-path: polygon(25% 0, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%);
-    background: #071526;
+    background: #041c20;
 }
 
 
