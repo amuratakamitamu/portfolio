@@ -309,7 +309,7 @@ body {
     }
 }
 
-@keyframes floatImage {
+/*@keyframes floatImage {
     0% {
         transform: translateY(0);
     }
@@ -321,4 +321,8 @@ body {
     100% {
         transform: translateY(0);
     }
+}*/
+
+@media screen and (max-width: 480px) {
+    .home-img {}
 }
